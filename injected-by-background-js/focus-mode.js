@@ -1,0 +1,1 @@
+alert("background.js injected focus-mode.css and focus-mode.js");
