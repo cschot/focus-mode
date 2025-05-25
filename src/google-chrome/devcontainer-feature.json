@@ -1,6 +1,6 @@
 {
     "id": "google-chrome",
-    "version": "1",
+    "version": "1.0.0",
     "name": "Google Chrome",
     "documentationURL": "https://github.com/cschot/devcontainer-features/tree/main/src/google-chrome",
     "dependsOn": {
