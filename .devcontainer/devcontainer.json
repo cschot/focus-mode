@@ -1,5 +1,5 @@
 {
 	"features": {
-		"./google-chrome": {}
+		"ghcr.io/cschot/focus-mode/google-chrome": {}
 	}
 }
