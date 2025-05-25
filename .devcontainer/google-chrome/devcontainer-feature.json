@@ -1,5 +1,5 @@
 {
-    "id": "desktop-lite",
+    "id": "google-chrome",
     "version": "1",
     "name": "Google Chrome",
     "documentationURL": "https://github.com/devcontainers/features/tree/main/src/desktop-lite",
