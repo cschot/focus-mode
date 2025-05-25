@@ -1,0 +1,9 @@
+{
+    "id": "desktop-lite",
+    "version": "1",
+    "name": "Google Chrome",
+    "documentationURL": "https://github.com/devcontainers/features/tree/main/src/desktop-lite",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/desktop-lite:1"
+    ]
+}
