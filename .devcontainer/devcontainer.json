@@ -1,5 +1,15 @@
 {
+	"image": "mcr.microsoft.com/devcontainers/universal:2-focal",
 	"features": {
 		"./src/google-chrome": {}
+	},
+	"forwardPorts": [6080,5901],
+	"portsAttributes": {
+	  "6080": {
+		"label": "noVNC Web client"
+	  },
+	  "5901": {
+		"label": "TigerVNC Server"
+	  }
 	}
 }
