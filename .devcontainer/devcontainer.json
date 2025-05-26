@@ -1,4 +1,5 @@
 {
+	"image":"mcr.microsoft.com/devcontainers/base:alpine",
 	"features": {
 		"./src/google-chrome": {}
 	}
