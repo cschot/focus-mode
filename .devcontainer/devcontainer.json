@@ -1,5 +1,5 @@
 {
 	"features": {
-		"ghcr.io/cschot/devcontainer-features/google-chrome": {}
+		"./src/google-chrome": {}
 	}
 }
