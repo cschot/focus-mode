@@ -1,3 +1,7 @@
+#Set default values for testing
+CHANNEL=${CHANNEL:-"stable"}
+VERSION=${VERSION:-""}
+
 export DEBIAN_FRONTEND=noninteractive
 
 if [ "$CHANNEL" = "dev" ]; then
