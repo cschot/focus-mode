@@ -5,7 +5,7 @@
     "description": "Install Google Chrome and use it by VNC",
     "documentationURL": "https://github.com/cschot/devcontainer-features/tree/main/src/google-chrome",
     "dependsOn": {
-        "ghcr.io/devcontainers/features/desktop-lite:1": {}
+        //"ghcr.io/devcontainers/features/desktop-lite:1": {}
     },
     "options": {
         "channel": {
